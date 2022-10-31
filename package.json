@@ -36,7 +36,7 @@
     "trailingComma": "es5"
   },
   "name": "react-select-bootstrap",
-  "description": "This component create a ramdom size placeholder.",
+  "description": "This package only offers the styling of the react-select package for the Bootstrap 5, focused essentially on colors, borders, shadows and validation.",
   "author": {
     "name": "Victor Aparecido Barbato Rossi"
   },
