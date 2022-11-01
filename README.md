@@ -17,7 +17,7 @@ Component usage example.
 ```typescript
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import { TableLoading } from 'react-select-bootstrap';
+import { ReactSelectBootstrap } from 'react-select-bootstrap';
 
 export default () => {
   return <ReactSelectBootstrap className='mt-3'
